@@ -1,7 +1,7 @@
 # FTE-Cplusplus
 Function derivative calculator
 
-# how to run 
+# How to run 
 1. Please open a terminal like git bash and run the following address
     git clone https://github.com/PedramAbbasiS/FTE-Cplusplus.git
 
